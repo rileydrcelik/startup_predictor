@@ -78,6 +78,3 @@ Visualization of results and feature importance is available in the notebook.
 For a high-level overview and insights into this project, check out the article:  
 [Startup Success Predictor](https://rileydrcelik.com/engineering/startup_predictor/startup.html)
 
----
-
-Feel free to reach out for questions or feedback. Contributions are welcome!
